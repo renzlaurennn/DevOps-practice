@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IgFbPGgIsH7suZsMiBD54p77Nsf8sMsdYLnfh/gf8atJpbWsZiXWV35QSe7RbSCM5G/rj7231D2sV9YHWVwxTw==",
+  "success": true,
+  "projectFilePath": "/Users/renzlauren/Desktop/devOpsDemo/NEWPROJECT/NEWPROJECT.sqlproj",
+  "expectedPackageFiles": [
+    "/Users/renzlauren/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/Users/renzlauren/.nuget/packages/microsoft.netframework.referenceassemblies.net46/1.0.0/microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
