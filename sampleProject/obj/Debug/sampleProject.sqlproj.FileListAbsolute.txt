@@ -1,0 +1,9 @@
+/Users/renzlauren/Desktop/devOpsDemo/sampleProject/bin/Debug/sampleProject.dacpac
+/Users/renzlauren/Desktop/devOpsDemo/sampleProject/bin/Debug/sampleProject.dll
+/Users/renzlauren/Desktop/devOpsDemo/sampleProject/bin/Debug/sampleProject.pdb
+/Users/renzlauren/Desktop/devOpsDemo/sampleProject/obj/Debug/Model.xml
+/Users/renzlauren/Desktop/devOpsDemo/sampleProject/obj/Debug/refactor.xml
+/Users/renzlauren/Desktop/devOpsDemo/sampleProject/obj/Debug/postdeploy.sql
+/Users/renzlauren/Desktop/devOpsDemo/sampleProject/obj/Debug/predeploy.sql
+/Users/renzlauren/Desktop/devOpsDemo/sampleProject/obj/Debug/sampleProject.dll
+/Users/renzlauren/Desktop/devOpsDemo/sampleProject/obj/Debug/sampleProject.pdb
