@@ -1,0 +1,9 @@
+/Users/renzlauren/Desktop/DevOps-practice/DatabaseProjectTesting/bin/Debug/DatabaseProjectTesting.dacpac
+/Users/renzlauren/Desktop/DevOps-practice/DatabaseProjectTesting/bin/Debug/DatabaseProjectTesting.dll
+/Users/renzlauren/Desktop/DevOps-practice/DatabaseProjectTesting/bin/Debug/DatabaseProjectTesting.pdb
+/Users/renzlauren/Desktop/DevOps-practice/DatabaseProjectTesting/obj/Debug/Model.xml
+/Users/renzlauren/Desktop/DevOps-practice/DatabaseProjectTesting/obj/Debug/refactor.xml
+/Users/renzlauren/Desktop/DevOps-practice/DatabaseProjectTesting/obj/Debug/postdeploy.sql
+/Users/renzlauren/Desktop/DevOps-practice/DatabaseProjectTesting/obj/Debug/predeploy.sql
+/Users/renzlauren/Desktop/DevOps-practice/DatabaseProjectTesting/obj/Debug/DatabaseProjectTesting.dll
+/Users/renzlauren/Desktop/DevOps-practice/DatabaseProjectTesting/obj/Debug/DatabaseProjectTesting.pdb
