@@ -1,9 +1,0 @@
-/Users/renzlauren/Desktop/DevOps_Practice/DevOps-practice/TESTPROJECT/bin/Debug/TESTPROJECT.dacpac
-/Users/renzlauren/Desktop/DevOps_Practice/DevOps-practice/TESTPROJECT/bin/Debug/TESTPROJECT.dll
-/Users/renzlauren/Desktop/DevOps_Practice/DevOps-practice/TESTPROJECT/bin/Debug/TESTPROJECT.pdb
-/Users/renzlauren/Desktop/DevOps_Practice/DevOps-practice/TESTPROJECT/obj/Debug/Model.xml
-/Users/renzlauren/Desktop/DevOps_Practice/DevOps-practice/TESTPROJECT/obj/Debug/refactor.xml
-/Users/renzlauren/Desktop/DevOps_Practice/DevOps-practice/TESTPROJECT/obj/Debug/postdeploy.sql
-/Users/renzlauren/Desktop/DevOps_Practice/DevOps-practice/TESTPROJECT/obj/Debug/predeploy.sql
-/Users/renzlauren/Desktop/DevOps_Practice/DevOps-practice/TESTPROJECT/obj/Debug/TESTPROJECT.dll
-/Users/renzlauren/Desktop/DevOps_Practice/DevOps-practice/TESTPROJECT/obj/Debug/TESTPROJECT.pdb
