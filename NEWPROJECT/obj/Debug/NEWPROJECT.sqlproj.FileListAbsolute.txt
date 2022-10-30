@@ -1,9 +1,0 @@
-/Users/renzlauren/Desktop/devOpsDemo/NEWPROJECT/bin/Debug/NEWPROJECT.dacpac
-/Users/renzlauren/Desktop/devOpsDemo/NEWPROJECT/bin/Debug/NEWPROJECT.dll
-/Users/renzlauren/Desktop/devOpsDemo/NEWPROJECT/bin/Debug/NEWPROJECT.pdb
-/Users/renzlauren/Desktop/devOpsDemo/NEWPROJECT/obj/Debug/Model.xml
-/Users/renzlauren/Desktop/devOpsDemo/NEWPROJECT/obj/Debug/refactor.xml
-/Users/renzlauren/Desktop/devOpsDemo/NEWPROJECT/obj/Debug/postdeploy.sql
-/Users/renzlauren/Desktop/devOpsDemo/NEWPROJECT/obj/Debug/predeploy.sql
-/Users/renzlauren/Desktop/devOpsDemo/NEWPROJECT/obj/Debug/NEWPROJECT.dll
-/Users/renzlauren/Desktop/devOpsDemo/NEWPROJECT/obj/Debug/NEWPROJECT.pdb
