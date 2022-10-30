@@ -1,0 +1,9 @@
+/Users/renzlauren/Desktop/DevOps-practice/ProjectDatabase/bin/Debug/ProjectDatabase.dacpac
+/Users/renzlauren/Desktop/DevOps-practice/ProjectDatabase/bin/Debug/ProjectDatabase.dll
+/Users/renzlauren/Desktop/DevOps-practice/ProjectDatabase/bin/Debug/ProjectDatabase.pdb
+/Users/renzlauren/Desktop/DevOps-practice/ProjectDatabase/obj/Debug/Model.xml
+/Users/renzlauren/Desktop/DevOps-practice/ProjectDatabase/obj/Debug/refactor.xml
+/Users/renzlauren/Desktop/DevOps-practice/ProjectDatabase/obj/Debug/postdeploy.sql
+/Users/renzlauren/Desktop/DevOps-practice/ProjectDatabase/obj/Debug/predeploy.sql
+/Users/renzlauren/Desktop/DevOps-practice/ProjectDatabase/obj/Debug/ProjectDatabase.dll
+/Users/renzlauren/Desktop/DevOps-practice/ProjectDatabase/obj/Debug/ProjectDatabase.pdb

@@ -2,9 +2,9 @@
 <Project DefaultTargets="Build">
   <Sdk Name="Microsoft.Build.Sql" Version="0.1.3-preview" />
   <PropertyGroup>
-    <Name>DatabaseProjectTesting</Name>
-    <ProjectGuid>{99054CB4-4F78-41E1-95D3-603B1DAA2306}</ProjectGuid>
-    <DSP>Microsoft.Data.Tools.Schema.Sql.SqlAzureV12DatabaseSchemaProvider</DSP>
+    <Name>ProjectDatabase</Name>
+    <ProjectGuid>{41B969A2-FD54-4E9B-9D07-50AD9A39DAFD}</ProjectGuid>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql150DatabaseSchemaProvider</DSP>
     <ModelCollation>1033, CI</ModelCollation>
   </PropertyGroup>
   <Target Name="BeforeBuild">

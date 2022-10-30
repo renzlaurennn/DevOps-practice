@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4udw/9IHjvttnhdJLH4yAHZiVJCXAY6kZGtlinBOggaMByPAB3r379szARkFInkAkFj1EciM/BSw4SPdqug40Q==",
+  "dgSpecHash": "MRuOrOrDdEBm1cIQk//VlTLZNVU/5YaUiD2YLsaLtZc5C3Tv5V0YTToaiz1IgfzyYJjYBH+qgD7cIGZFFHNI1g==",
   "success": true,
-  "projectFilePath": "/Users/renzlauren/Desktop/DevOps-practice/DatabaseProjectTesting/DatabaseProjectTesting.sqlproj",
+  "projectFilePath": "/Users/renzlauren/Desktop/DevOps-practice/ProjectDatabase/ProjectDatabase.sqlproj",
   "expectedPackageFiles": [
     "/Users/renzlauren/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
     "/Users/renzlauren/.nuget/packages/microsoft.netframework.referenceassemblies.net46/1.0.0/microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"

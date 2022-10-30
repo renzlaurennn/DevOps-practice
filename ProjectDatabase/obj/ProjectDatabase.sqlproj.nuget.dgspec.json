@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/renzlauren/Desktop/DevOps-practice/DatabaseProjectTesting/DatabaseProjectTesting.sqlproj": {}
+    "/Users/renzlauren/Desktop/DevOps-practice/ProjectDatabase/ProjectDatabase.sqlproj": {}
   },
   "projects": {
-    "/Users/renzlauren/Desktop/DevOps-practice/DatabaseProjectTesting/DatabaseProjectTesting.sqlproj": {
+    "/Users/renzlauren/Desktop/DevOps-practice/ProjectDatabase/ProjectDatabase.sqlproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/renzlauren/Desktop/DevOps-practice/DatabaseProjectTesting/DatabaseProjectTesting.sqlproj",
-        "projectName": "DatabaseProjectTesting",
-        "projectPath": "/Users/renzlauren/Desktop/DevOps-practice/DatabaseProjectTesting/DatabaseProjectTesting.sqlproj",
+        "projectUniqueName": "/Users/renzlauren/Desktop/DevOps-practice/ProjectDatabase/ProjectDatabase.sqlproj",
+        "projectName": "ProjectDatabase",
+        "projectPath": "/Users/renzlauren/Desktop/DevOps-practice/ProjectDatabase/ProjectDatabase.sqlproj",
         "packagesPath": "/Users/renzlauren/.nuget/packages/",
-        "outputPath": "/Users/renzlauren/Desktop/DevOps-practice/DatabaseProjectTesting/obj/",
+        "outputPath": "/Users/renzlauren/Desktop/DevOps-practice/ProjectDatabase/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
