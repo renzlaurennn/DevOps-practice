@@ -29,3 +29,6 @@ VALUES ('Juan', 'DelaCruz')
 GO
 
 SELECT * FROM [user]
+
+DELETE FROM [user] WHERE [first_name]='Juan'
+ 
